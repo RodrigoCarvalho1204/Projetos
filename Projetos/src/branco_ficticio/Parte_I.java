@@ -4,6 +4,7 @@ public class Parte_I {
 	
 	public static void main(String[] args) {
 		
-			String banco;
+		
+		String banco;
 	}
 }
